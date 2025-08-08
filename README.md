@@ -7,6 +7,8 @@
 
 ---
 
+Link codebooks: https://www.overleaf.com/read/pdqgqbknqvfw#a039d8
+
 ## ✨ Objetivo
 
 Dejar un **conjunto de datos listo para análisis** a partir de `dataset_institutions.csv`, documentando cada transformación realizada (reproducible, sin eliminar columnas ni hacer análisis).  
